@@ -12,7 +12,7 @@ dependencies:
   async: ^2.11.0
   csslib: '>=0.17.3 <2.0.0'
   charcode: ^1.2.0
-  collection: ^1.17.1
+  collection: '>=1.17.0 <2.0.0'
   html: ^0.15.3
   meta: '>=1.8.0 <2.0.0'
   source_span: ^1.9.1
